@@ -56,13 +56,13 @@ To set up the project locally, follow these steps:
    npx http-server .  # Requires http-server package
    ```
 
-##🎯 Usage
+## 🎯 Usage
 
 1. **Upload an Image**: Click on the upload button to select an image from your device.
 2. **Use Webcam**: Click on the "Start Webcam" button to begin real-time face detection.
 3. **View Results**: Detected faces will be highlighted, and recognized individuals will be displayed with their names.
 
-## How It Works
+## 📚How It Works
 
 The application uses a combination of computer vision and machine learning techniques:
 
@@ -74,7 +74,7 @@ The application uses a combination of computer vision and machine learning techn
 
 A live demo of the project can be found at [Demo Link](#) (replace with actual link).
 
-## Contributing
+## 💡Contributing
 
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
