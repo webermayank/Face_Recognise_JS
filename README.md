@@ -1,6 +1,6 @@
-#🚀 Face Recognition Project
+# 🚀 Face Recognition Project
 
-##📋 Table of Contents
+## 📋 Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
