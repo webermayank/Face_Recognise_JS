@@ -8,9 +8,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [How It Works](#how-it-works)
-- [Demo](#demo)
-- [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## 🌟Overview
@@ -51,9 +48,13 @@ To set up the project locally, follow these steps:
    cd Face_Recognise_JS
    ```
 
-3. **Open the `index.html` file** in your preferred web browser. You can also use a local server for better performance:
+3. **Install the packages
    ```bash
-   npx http-server .  # Requires http-server package
+     npm install
+   ```
+4. ** Run the dev server at `http://localhost:3000`
+   ```bash
+   npm run dev
    ```
 
 ## 🎯 Usage
@@ -70,23 +71,6 @@ The application uses a combination of computer vision and machine learning techn
 - **Feature Extraction**: Extracts facial features using pre-trained models.
 - **Face Recognition**: Compares extracted features against a database of known faces to identify individuals.
 
-## Demo
-
-A live demo of the project can be found at [Demo Link](#) (replace with actual link).
-
-## 💡Contributing
-
-Contributions are welcome! If you would like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Make your changes and commit them (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
